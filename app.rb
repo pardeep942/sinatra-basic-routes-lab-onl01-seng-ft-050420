@@ -13,6 +13,10 @@ end
     "My hometown is New York"
 end
 
+  get '/' do
+    "My favorite song is Punjabi".
+end
+
 
 
 
