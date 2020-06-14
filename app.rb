@@ -14,8 +14,11 @@ end
 end
 
   get '/' do
-    "My favorite song is Punjabi".
+    "My favorite song is punjabi"
+  end
+    
 end
+
 
 
 
