@@ -6,8 +6,15 @@ class App < Sinatra::Base
 end
 
   get '/' do
-    "Hello, World!"
+    "My name is pari"
 end
+
+  get '/' do
+    "My hometown is New York"
+end
+
+
+
 
 
 
